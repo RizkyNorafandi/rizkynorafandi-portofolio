@@ -19,10 +19,12 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-              tempore fugiat sunt molestias ipsa explicabo accusantium quod?
-              Corporis, placeat quia. Aperiam magni molestiae vel officiis
-              asperiores, quae aliquam dolorum incidunt?
+              Hello! I'm Rizky Norafandi, A junior developer who enjoys the
+              learning process. Passionate about turning designs into clean and
+              efficient code. Currently exploring React.js and all its wonders.
+              I believe the most important skill for a programmer is the
+              willingness to keep learning new things and adapting to
+              technological changes.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="rounded-xl 6 hover:-translate-y-1 transition-all">
